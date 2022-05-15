@@ -31,5 +31,9 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 wrutts
 sfghjs
+=======
+abc
+>>>>>>> 6b47269 ([F1] update .gitignore)
